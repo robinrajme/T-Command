@@ -14,4 +14,4 @@ This script automatically installs:
 ## ✔ Install (One Command)
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/USERNAME/REPO/main/setup.sh | bash
+curl -fsSL https://raw.githubusercontent.com/robinrajme/T-Command/main/setup.sh | bash
